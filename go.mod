@@ -1,4 +1,4 @@
-module protobuf/v2
+module github.com/1abobik1/ProtoBuf
 
 go 1.23.1
 
