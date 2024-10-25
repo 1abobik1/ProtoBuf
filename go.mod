@@ -1,4 +1,4 @@
-module github.com/1abobik1/ProtoBuf
+module github.com/1abobik1/ProtoBuf/v1
 
 go 1.23.1
 
